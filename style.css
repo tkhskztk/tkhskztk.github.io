@@ -124,15 +124,7 @@ a:hover {
 
 
 
-.frame {
-    float:left;
-    display: inline-block;
-    position: relative;
-    margin-right:10px;
-    margin-left:0px;
-    background:#fff;
 
-}
 .frame {
     float: left;
     margin-right: 10px;
