@@ -124,10 +124,11 @@ a:hover {
 
 
 
-
 .frame {
     float: left;
-    margin-right: 10px;
+    margin-right: 25px;   /* ← 横の間隔を広げる */
+    margin-bottom: 20px;  /* ← 下の間隔を追加 */
+    margin-top: 10px;     /* ← 上にも少し余白 */
     position: relative;
 }
 
