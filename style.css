@@ -145,3 +145,7 @@ a:hover {
     font-style: italic;
     letter-spacing: 0.05em;  /* 少しだけ余白を出して上品に */
 }
+.jp-serif {
+    font-family: 'Noto Serif JP', serif;
+    font-weight: 400;
+}
